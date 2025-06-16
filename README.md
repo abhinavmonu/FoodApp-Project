@@ -6,10 +6,10 @@ A full-stack web application for food ordering with user authentication, dynamic
 #Key Features  
 
 User Authentication  – Secure login/signup with session management.  
-Dynamic Menu Display – Real-time rendering of food items using JSP.  
+Dynamic Menu Display – Real-time rendering of food items using **JSP**.  
 Shopping Cart        – Add/remove items, update quantities dynamically.  
-Order Management     – Track user orders stored in MySQL.  
-Responsive UI        – Clean, mobile-friendly design with HTML5/CSS3.  
+Order Management     – Track user orders stored in **MySQL**.  
+Responsive UI        – Clean, mobile-friendly design with **HTML5/CSS3**.  
 
 ---  
 
